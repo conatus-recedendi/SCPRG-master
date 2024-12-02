@@ -1,9 +1,9 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=7
+export CUDA_VISIBLE_DEVICES=3,4,5
 
 if true; then
 OUTPUT=rams-large
-GPU=0
+GPU=3
 BSZ=2
 ACCU=4
 LR=3e-5
@@ -30,6 +30,7 @@ do
 python train_EAE.py \
 --task_name rams \
 --do_train \
+--no_cuda False \
 --train_file ${TRAIN_FILE} \
 --validation_file ${DEV_FILE} \
 --test_file ${TEST_FILE} \

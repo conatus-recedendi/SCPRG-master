@@ -1,11 +1,11 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=6
+export CUDA_VISIBLE_DEVICES=3,4
 
 if true; then
 OUTPUT=wikievents-large
-GPU=0
+GPU=3
 BSZ=2
-ACCU=4
+ACCU=2
 LR=3e-5
 NOT_BERT_LR=1e-4
 LAMBDA_BOUNDARY=0.1
@@ -22,13 +22,16 @@ TRAIN_FILE=../data/wikievents/transfer-train.jsonl
 DEV_FILE=../data/wikievents/transfer-dev.jsonl
 TEST_FILE=../data/wikievents/transfer-test.jsonl
 META_FILE=../data/wikievents/meta.json
+CACHE_DIR=./cache/wikievents-large
 
 # main
 for SEED in ${seeds[@]}
 do
 python train_EAE.py \
 --task_name wikievent \
---do_train \
+--do_train True \
+--do_eval True \
+--no_cuda False \
 --train_file ${TRAIN_FILE} \
 --validation_file ${DEV_FILE} \
 --test_file ${TEST_FILE} \
@@ -56,6 +59,9 @@ python train_EAE.py \
 --max_len ${MAX_LEN} \
 --seed ${SEED} \
 --lambda_boundary ${LAMBDA_BOUNDARY} \
---event_embedding_size ${EVENT_EMBEDDING_SIZE}
+--event_embedding_size ${EVENT_EMBEDDING_SIZE} \
+--span_len_embedding_range 1024 \
+--span_len_embedding_hidden_size 1024 \
+--cache_dir ${CACHE_DIR}
 done
 fi

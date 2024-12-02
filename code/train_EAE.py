@@ -23,7 +23,7 @@ import random
 import sys
 from dataclasses import dataclass, field
 from typing import Optional
-import wandb
+# import wandb
 import numpy as np
 from datasets import load_dataset, load_metric
 
@@ -150,10 +150,18 @@ def main():
     else:
         model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
+    
+
     # check task
     assert data_args.task_name in ['rams', 'wikievent']
     assert data_args.train_file is not None and data_args.validation_file is not None and data_args.test_file is not None
 
+    logging.basicConfig(
+        format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
+        datefmt="%m/%d/%Y %H:%M:%S",
+        handlers=[logging.StreamHandler(sys.stdout)],
+    )
+    logger.setLevel(logging.INFO if is_main_process(training_args.local_rank) else logging.WARN)
     # Detecting last checkpoint.
     last_checkpoint = None
     if os.path.isdir(training_args.output_dir) and training_args.do_train and not training_args.overwrite_output_dir:
@@ -168,15 +176,16 @@ def main():
                 f"Checkpoint detected, resuming training at {last_checkpoint}. To avoid this behavior, change "
                 "the `--output_dir` or add `--overwrite_output_dir` to train from scratch."
             )
-
+        logger.info("hi")
     # Setup logging
-    logging.basicConfig(
-        format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
-        datefmt="%m/%d/%Y %H:%M:%S",
-        handlers=[logging.StreamHandler(sys.stdout)],
-    )
-    logger.setLevel(logging.INFO if is_main_process(training_args.local_rank) else logging.WARN)
-
+    logger.info(torch.cuda.is_available())
+    logger.info(torch.version)
+    logger.info(torch.version.cuda)
+    logger.info(torch.backends.cudnn.enabled)
+    for i in range(torch.cuda.device_count()):
+        logger.info(f'CUDA device name: {torch.cuda.get_device_name("cuda:"+str(i))}')
+        # logger.info(f'CUDA device name: {torch.cuda.get_device_name("cuda"+str(i)}')
+        
     # Log on each process the small summary:
     logger.warning(
         f"Process rank: {training_args.local_rank}, device: {training_args.device}, n_gpu: {training_args.n_gpu}"
@@ -229,6 +238,9 @@ def main():
     setattr(config, "len_size", model_args.span_len_embedding_range)
     setattr(config, "len_dim", model_args.span_len_embedding_hidden_size)
     setattr(config, "event_num", event_num)
+    logger.info(f"model_args: {model_args}")
+    logger.info(f"event_num: {event_num}")
+
     # ======== make some additional setting ==============
 
     if model_args.model_name_or_path.startswith('bert'):
@@ -705,6 +717,9 @@ def main():
         preds = np.argmax(preds, axis=-1)
         spans = p.predictions[1] if isinstance(p.predictions, tuple) else None
         labels = p.label_ids
+        logger.info(preds)
+        logger.info(spans)
+        logger.info(labels)
         output_validation_file = os.path.join(training_args.output_dir, "validation_predictions_span.jsonlines")
         if trainer.is_world_process_zero():
             result = extract_word_level_result(preds=preds, labels=labels, spans=spans, dataset=eval_dataset)

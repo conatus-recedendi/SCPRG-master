@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_DIR=rams-base
+OUTPUT_DIR=rams-base_seed1111
 golden_dev=../data/rams/dev.jsonlines
 golden_test=../data/rams/test.jsonlines
 
@@ -44,7 +44,7 @@ echo '==========================='
 echo '========for head F1========'
 echo '==========================='
 
-echo '==========================='
+echo '==========================='g
 echo 'dev'
 echo '==========================='
 python scorer/scorer.py \

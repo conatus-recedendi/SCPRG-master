@@ -1,0 +1,364 @@
+{"doc_key": "wiki_mass_car_bombings_1_news_8-0", "predictions": [[[2, 2], [6, 6, "Victim", 1.0], [1, 1, "Killer", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-1", "predictions": [[[42, 42], [46, 47, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-2", "predictions": [[[39, 39], [36, 36, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-3", "predictions": [[[78, 79]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-4", "predictions": [[[97, 97], [91, 91, "ExplosiveDevice", 1.0], [113, 114, "Place", 1.0], [86, 86, "Attacker", 1.0], [95, 95, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-5", "predictions": [[[136, 136], [140, 140, "Target", 1.0], [127, 127, "Attacker", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-6", "predictions": [[[204, 204], [228, 229, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-7", "predictions": [[[262, 262], [297, 297, "Identifier", 1.0], [267, 267, "IdentifiedObject", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-8", "predictions": [[[232, 233], [237, 237, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-9", "predictions": [[[247, 247], [246, 246, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-10", "predictions": [[[243, 243], [242, 242, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-11", "predictions": [[[157, 157], [164, 164, "Target", 1.0], [213, 213, "Attacker", 1.0], [166, 168, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-12", "predictions": [[[235, 235], [228, 229, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-13", "predictions": [[[213, 215], [211, 211, "Participant", 1.0], [224, 224, "Participant", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-14", "predictions": [[[281, 281], [279, 279, "PassengerArtifact", 1.0], [422, 422, "Destination", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-15", "predictions": [[[289, 289], [291, 291, "Destination", 1.0], [287, 287, "PassengerArtifact", 1.0], [422, 422, "Destination", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-16", "predictions": [[[208, 208], [228, 229, "Target", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-17", "predictions": [[[98, 98], [89, 89, "Victim", 1.0], [96, 96, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-18", "predictions": [[[286, 286], [290, 290, "Victim", 1.0], [292, 292, "Victim", 1.0], [269, 269, "Injurer", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-19", "predictions": [[[280, 280], [284, 284, "Victim", 1.0], [269, 269, "Killer", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-20", "predictions": [[[270, 271], [277, 279, "Place", 1.0], [269, 269, "Attacker", 1.0], [274, 274, "ExplosiveDevice", 1.0], [284, 284, "Target", 1.0], [176, 176, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-21", "predictions": [[[265, 265], [359, 359, "Participant", 1.0], [369, 369, "Place", 1.0], [447, 447, "Participant", 1.0], [447, 447, "Participant", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-22", "predictions": [[[298, 298]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-23", "predictions": [[[290, 290], [289, 289, "Killer", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_1_news_8-24", "predictions": [[[292, 292], [289, 289, "Injurer", 1.0], [300, 300, "Victim", 1.0]]]}
+{"doc_key": "scenario_en_kairos_68-0", "predictions": [[[192, 192]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-0", "predictions": [[[13, 13], [12, 12, "JudgeCourt", 1.0], [76, 76, "Defendant", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-1", "predictions": [[[16, 16], [76, 76, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-2", "predictions": [[[100, 100], [43, 43, "Damager", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-3", "predictions": [[[108, 108], [43, 43, "Damager", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-4", "predictions": [[[167, 167], [162, 162, "JudgeCourt", 1.0], [268, 268, "Defendant", 1.0], [171, 171, "JudgeCourt", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-5", "predictions": [[[166, 166]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-6", "predictions": [[[191, 191], [268, 268, "Killer", 1.0], [193, 193, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-7", "predictions": [[[195, 195], [196, 196, "Victim", 1.0], [268, 268, "Injurer", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-8", "predictions": [[[204, 204]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-9", "predictions": [[[222, 223], [228, 228, "ExplosiveDevice", 1.0], [216, 216, "Attacker", 1.0], [268, 268, "Attacker", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-10", "predictions": [[[242, 242], [250, 250, "Target", 1.0], [268, 268, "Attacker", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-11", "predictions": [[[263, 263], [216, 216, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-12", "predictions": [[[278, 278], [268, 268, "Defendant", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-13", "predictions": [[[292, 292]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-14", "predictions": [[[291, 291]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-15", "predictions": [[[269, 269], [428, 428, "Defendant", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-16", "predictions": [[[278, 278], [348, 349, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-17", "predictions": [[[281, 281], [348, 349, "Target", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-18", "predictions": [[[273, 273], [267, 267, "Target", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-19", "predictions": [[[285, 285]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-20", "predictions": [[[312, 312], [313, 313, "Victim", 1.0], [310, 310, "Killer", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-21", "predictions": [[[316, 316], [310, 310, "Attacker", 1.0], [313, 313, "Target", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-22", "predictions": [[[324, 324]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-23", "predictions": [[[319, 319], [333, 333, "Victim", 1.0], [333, 333, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-24", "predictions": [[[268, 268], [267, 267, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-25", "predictions": [[[229, 229], [231, 231, "Target", 1.0], [98, 98, "Attacker", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-26", "predictions": [[[92, 92], [109, 109, "Victim", 1.0], [109, 109, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-27", "predictions": [[[95, 95]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-28", "predictions": [[[125, 125], [98, 98, "Destroyer", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-29", "predictions": [[[129, 129], [98, 98, "Victim", 1.0]]]}
+{"doc_key": "53_VOA_EN_NW_2015.06.24.2835606-30", "predictions": [[[115, 115], [158, 158, "Defendant", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-0", "predictions": [[[6, 6]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-1", "predictions": [[[39, 39]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-2", "predictions": [[[57, 57], [61, 61, "Instrument", 1.0], [64, 64, "Place", 1.0], [66, 66, "Place", 1.0], [68, 68, "Place", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-3", "predictions": [[[79, 79]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-4", "predictions": [[[89, 89], [87, 87, "Victim", 1.0], [92, 92, "Place", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-5", "predictions": [[[155, 155], [233, 233, "Instrument", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-6", "predictions": [[[201, 201], [200, 200, "Victim", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-7", "predictions": [[[204, 204], [4, 4, "Instrument", 1.0], [200, 200, "Target", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-8", "predictions": [[[246, 246], [200, 200, "Victim", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-9", "predictions": [[[160, 160], [261, 261, "Place", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-10", "predictions": [[[170, 170], [169, 169, "Instrument", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-11", "predictions": [[[196, 196], [195, 195, "Attacker", 1.0], [261, 261, "Target", 1.0], [261, 261, "Target", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-12", "predictions": [[[83, 83]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-13", "predictions": [[[94, 94], [93, 93, "Victim", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-14", "predictions": [[[17, 17]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-15", "predictions": [[[66, 66], [3, 3, "Place", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-16", "predictions": [[[55, 55], [54, 54, "Instrument", 1.0], [8, 8, "Attacker", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_0_news_1-17", "predictions": [[[41, 41]]]}
+{"doc_key": "wiki_ied_bombings_10-0", "predictions": [[[8, 8], [7, 7, "ExplosiveDevice", 1.0], [13, 16, "Target", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-1", "predictions": [[[32, 32], [30, 30, "Victim", 1.0], [34, 34, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-2", "predictions": [[[140, 140], [139, 139, "Instrument", 1.0], [137, 137, "Instrument", 1.0], [310, 310, "Place", 1.0], [120, 122, "Attacker", 1.0], [213, 213, "Attacker", 1.0], [152, 152, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-3", "predictions": [[[233, 233], [232, 232, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-4", "predictions": [[[239, 239], [30, 30, "Victim", 1.0], [247, 247, "Victim", 1.0], [244, 247, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-5", "predictions": [[[330, 330], [332, 332, "ExplosiveDevice", 1.0], [334, 335, "Place", 1.0], [213, 213, "Attacker", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-6", "predictions": [[[337, 337], [339, 339, "Victim", 1.0], [213, 213, "Injurer", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-7", "predictions": [[[285, 285], [287, 287, "Artifact", 1.0], [205, 205, "Artifact", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-8", "predictions": [[[248, 248], [252, 252, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-9", "predictions": [[[254, 254], [255, 255, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-10", "predictions": [[[263, 263], [265, 265, "Artifact", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-11", "predictions": [[[42, 42], [41, 41, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-12", "predictions": [[[160, 160], [169, 169, "Target", 1.0], [213, 213, "Attacker", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-13", "predictions": [[[176, 176], [175, 175, "Attacker", 1.0], [178, 178, "ExplosiveDevice", 1.0], [182, 182, "Target", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-14", "predictions": [[[270, 270], [41, 41, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-15", "predictions": [[[280, 280], [41, 41, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-16", "predictions": [[[196, 196], [213, 213, "ManufacturerAssembler", 1.0], [232, 232, "Artifact", 1.0], [195, 195, "ManufacturerAssembler", 1.0], [18, 18, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-17", "predictions": [[[94, 94], [82, 82, "Observer", 1.0], [103, 103, "Observer", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-18", "predictions": [[[214, 214], [232, 232, "Artifact", 1.0], [213, 213, "ManufacturerAssembler", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-19", "predictions": [[[162, 162], [160, 160, "Subject", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-20", "predictions": [[[193, 193], [188, 188, "Defendant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-21", "predictions": [[[208, 208], [196, 196, "Detainee", 1.0], [213, 214, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_10-22", "predictions": [[[63, 63], [72, 72, "Participant", 1.0], [60, 62, "Participant", 1.0], [62, 62, "Participant", 1.0], [71, 72, "Participant", 1.0], [77, 77, "Participant", 1.0]]]}
+{"doc_key": "backpack_ied_13-0", "predictions": [[[160, 160]]]}
+{"doc_key": "backpack_ied_13-1", "predictions": [[[276, 276]]]}
+{"doc_key": "backpack_ied_13-2", "predictions": [[[350, 350], [369, 369, "Victim", 1.0]]]}
+{"doc_key": "backpack_ied_13-3", "predictions": [[[317, 317]]]}
+{"doc_key": "backpack_ied_13-4", "predictions": [[[231, 231], [252, 252, "Victim", 1.0], [238, 238, "Killer", 1.0]]]}
+{"doc_key": "backpack_ied_13-5", "predictions": [[[199, 199]]]}
+{"doc_key": "backpack_ied_13-6", "predictions": [[[58, 58], [30, 30, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-7", "predictions": [[[63, 63], [62, 62, "ExplosiveDevice", 1.0], [0, 1, "Place", 1.0]]]}
+{"doc_key": "backpack_ied_13-8", "predictions": [[[118, 118], [122, 122, "IdentifiedObject", 1.0], [114, 114, "Identifier", 1.0]]]}
+{"doc_key": "backpack_ied_13-9", "predictions": [[[182, 182], [180, 180, "Dismantler", 1.0], [122, 122, "Artifact", 1.0]]]}
+{"doc_key": "backpack_ied_13-10", "predictions": [[[233, 233], [310, 310, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-11", "predictions": [[[270, 270], [310, 310, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-12", "predictions": [[[298, 298], [287, 287, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-13", "predictions": [[[300, 300], [119, 121, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-14", "predictions": [[[291, 291], [245, 248, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-15", "predictions": [[[307, 307], [305, 305, "Identifier", 1.0], [312, 312, "IdentifiedObject", 1.0], [475, 476, "Place", 1.0]]]}
+{"doc_key": "backpack_ied_13-16", "predictions": [[[281, 281], [91, 91, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-17", "predictions": [[[332, 332], [330, 330, "Components", 1.0], [335, 335, "Instrument", 1.0]]]}
+{"doc_key": "backpack_ied_13-18", "predictions": [[[318, 318], [315, 317, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-19", "predictions": [[[289, 289], [290, 290, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-20", "predictions": [[[313, 313], [506, 506, "Communicator", 1.0], [316, 316, "Topic", 1.0]]]}
+{"doc_key": "backpack_ied_13-21", "predictions": [[[315, 315], [422, 422, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-22", "predictions": [[[307, 307], [242, 242, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-23", "predictions": [[[276, 276]]]}
+{"doc_key": "backpack_ied_13-24", "predictions": [[[334, 334]]]}
+{"doc_key": "backpack_ied_13-25", "predictions": [[[331, 331], [233, 233, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-26", "predictions": [[[336, 336], [293, 293, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-27", "predictions": [[[335, 335]]]}
+{"doc_key": "backpack_ied_13-28", "predictions": [[[352, 352], [355, 355, "Destination", 1.0], [369, 369, "PassengerArtifact", 1.0], [347, 347, "PassengerArtifact", 1.0]]]}
+{"doc_key": "backpack_ied_13-29", "predictions": [[[363, 363], [51, 51, "Communicator", 1.0], [51, 51, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-30", "predictions": [[[305, 305], [303, 303, "Patient", 1.0]]]}
+{"doc_key": "backpack_ied_13-31", "predictions": [[[313, 313], [312, 312, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-32", "predictions": [[[291, 291], [292, 292, "Patient", 1.0], [290, 290, "Treater", 1.0], [270, 270, "Patient", 1.0]]]}
+{"doc_key": "backpack_ied_13-33", "predictions": [[[297, 297], [283, 283, "Communicator", 1.0], [298, 298, "Topic", 1.0]]]}
+{"doc_key": "backpack_ied_13-34", "predictions": [[[293, 293], [296, 296, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-35", "predictions": [[[290, 290], [250, 250, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-36", "predictions": [[[284, 284], [285, 285, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-37", "predictions": [[[218, 218], [217, 217, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_13-38", "predictions": [[[186, 186], [185, 185, "Communicator", 1.0]]]}
+{"doc_key": "backpack_ied_20-0", "predictions": [[[98, 98], [58, 58, "Target", 1.0]]]}
+{"doc_key": "backpack_ied_20-1", "predictions": [[[187, 187], [190, 192, "ExplosiveDevice", 1.0], [191, 192, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "backpack_ied_20-2", "predictions": [[[206, 206], [212, 213, "Target", 1.0], [201, 201, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "backpack_ied_20-3", "predictions": [[[248, 248], [245, 245, "ExplosiveDevice", 1.0], [250, 250, "Place", 1.0], [471, 471, "Place", 1.0], [254, 254, "Place", 1.0], [257, 257, "Place", 1.0]]]}
+{"doc_key": "backpack_ied_20-4", "predictions": [[[272, 272], [268, 268, "Target", 1.0]]]}
+{"doc_key": "backpack_ied_20-5", "predictions": [[[247, 247], [249, 249, "Victim", 1.0]]]}
+{"doc_key": "backpack_ied_20-6", "predictions": [[[251, 251], [254, 254, "Victim", 1.0]]]}
+{"doc_key": "backpack_ied_20-7", "predictions": [[[286, 286], [14, 15, "Target", 1.0], [303, 303, "Attacker", 1.0], [303, 303, "Attacker", 1.0]]]}
+{"doc_key": "backpack_ied_20-8", "predictions": [[[276, 276], [303, 303, "Communicator", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-0", "predictions": [[[22, 22], [4, 4, "Defendant", 1.0], [4, 4, "Defendant", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-1", "predictions": [[[25, 26], [4, 4, "Attacker", 1.0], [29, 29, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-2", "predictions": [[[38, 38], [40, 40, "Victim", 1.0], [4, 4, "Injurer", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-3", "predictions": [[[68, 68], [4, 4, "Defendant", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-4", "predictions": [[[73, 73]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-5", "predictions": [[[142, 143], [70, 70, "Attacker", 1.0], [211, 211, "Target", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-6", "predictions": [[[160, 160], [161, 161, "Victim", 1.0], [157, 157, "Killer", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-7", "predictions": [[[163, 163], [40, 40, "Victim", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-8", "predictions": [[[168, 168]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-9", "predictions": [[[180, 181], [176, 176, "ExplosiveDevice", 1.0], [277, 278, "Place", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-10", "predictions": [[[199, 199], [200, 200, "Victim", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-11", "predictions": [[[207, 208], [171, 171, "Attacker", 1.0], [204, 204, "ExplosiveDevice", 1.0], [142, 142, "Target", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-12", "predictions": [[[159, 159], [164, 164, "Prosecutor", 1.0], [169, 169, "Defendant", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-13", "predictions": [[[127, 127], [213, 213, "Detainee", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-14", "predictions": [[[158, 158], [213, 213, "Victim", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-15", "predictions": [[[165, 165]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-16", "predictions": [[[153, 154], [152, 152, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-17", "predictions": [[[122, 122], [123, 123, "AcquiredEntity", 1.0], [187, 187, "Recipient", 1.0], [123, 124, "AcquiredEntity", 1.0], [124, 124, "AcquiredEntity", 1.0]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-18", "predictions": [[[13, 13]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-19", "predictions": [[[83, 83]]]}
+{"doc_key": "20_VOA_EN_NW_2016.11.17.3601570-20", "predictions": [[[136, 136]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-0", "predictions": [[[167, 167], [278, 278, "Victim", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-1", "predictions": [[[182, 182], [330, 330, "Detainee", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-2", "predictions": [[[204, 204], [196, 197, "Target", 1.0], [208, 209, "Target", 1.0], [209, 209, "Target", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-3", "predictions": [[[192, 192], [339, 339, "Victim", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-4", "predictions": [[[70, 70], [105, 105, "Defendant", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-5", "predictions": [[[3, 4], [1, 1, "Attacker", 1.0], [0, 1, "Attacker", 1.0], [6, 6, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-6", "predictions": [[[13, 13], [15, 15, "Victim", 1.0], [1, 1, "Killer", 1.0]]]}
+{"doc_key": "38_VOA_EN_NW_2013.04.24.1647602-7", "predictions": [[[17, 17], [25, 25, "Victim", 1.0], [1, 1, "Injurer", 1.0]]]}
+{"doc_key": "JC002YBW0-0", "predictions": [[[72, 72], [91, 91, "Observer", 1.0], [74, 74, "ObservedEntity", 1.0]]]}
+{"doc_key": "JC002YBW0-1", "predictions": [[[132, 132]]]}
+{"doc_key": "JC002YBW0-2", "predictions": [[[125, 125], [178, 178, "Recipient", 1.0]]]}
+{"doc_key": "JC002YBW0-3", "predictions": [[[124, 124], [127, 128, "IdentifiedRole", 1.0], [17, 17, "IdentifiedRole", 1.0]]]}
+{"doc_key": "JC002YBW0-4", "predictions": [[[176, 176], [175, 175, "Victim", 1.0]]]}
+{"doc_key": "JC002YBW0-5", "predictions": [[[171, 171], [175, 175, "Attacker", 1.0], [169, 169, "ExplosiveDevice", 1.0], [179, 179, "Target", 1.0]]]}
+{"doc_key": "JC002YBW0-6", "predictions": [[[235, 235], [163, 164, "Recipient", 1.0]]]}
+{"doc_key": "JC002YBW0-7", "predictions": [[[279, 279], [280, 280, "AcquiredEntity", 1.0], [242, 242, "Recipient", 1.0]]]}
+{"doc_key": "JC002YBW0-8", "predictions": [[[277, 277], [520, 521, "Recipient", 1.0], [284, 285, "Giver", 1.0], [281, 281, "AcquiredEntity", 1.0]]]}
+{"doc_key": "JC002YBW0-9", "predictions": [[[273, 273], [52, 53, "Recipient", 1.0], [278, 278, "AcquiredEntity", 1.0], [280, 281, "Giver", 1.0]]]}
+{"doc_key": "JC002YBW0-10", "predictions": [[[285, 285], [286, 286, "AcquiredEntity", 1.0], [271, 271, "Recipient", 1.0]]]}
+{"doc_key": "JC002YBW0-11", "predictions": [[[319, 319], [486, 487, "Recipient", 1.0], [321, 321, "AcquiredEntity", 1.0]]]}
+{"doc_key": "JC002YBW0-12", "predictions": [[[151, 154], [144, 145, "Recipient", 1.0], [160, 160, "AcquiredEntity", 1.0]]]}
+{"doc_key": "JC002YBW0-13", "predictions": [[[51, 51], [49, 49, "Observer", 1.0], [53, 53, "ObservedEntity", 1.0]]]}
+{"doc_key": "JC002YBW0-14", "predictions": [[[53, 53], [18, 20, "Employee", 1.0], [0, 1, "Employee", 1.0], [59, 60, "PlaceOfEmployment", 1.0]]]}
+{"doc_key": "JC002YBW0-15", "predictions": [[[77, 77], [93, 97, "AcquiredEntity", 1.0], [18, 20, "Recipient", 1.0]]]}
+{"doc_key": "JC002YBW0-16", "predictions": [[[113, 113], [147, 147, "Recipient", 1.0], [114, 118, "AcquiredEntity", 1.0]]]}
+{"doc_key": "JC002YBW0-17", "predictions": [[[196, 196], [0, 1, "Recipient", 1.0]]]}
+{"doc_key": "JC002YBW0-18", "predictions": [[[185, 185], [186, 186, "Victim", 1.0], [175, 175, "Killer", 1.0]]]}
+{"doc_key": "JC002YBW0-19", "predictions": [[[188, 188], [191, 191, "Victim", 1.0], [175, 175, "Injurer", 1.0]]]}
+{"doc_key": "JC002YBW0-20", "predictions": [[[193, 193], [0, 1, "Participant", 1.0], [18, 20, "Participant", 1.0]]]}
+{"doc_key": "JC002YBW0-21", "predictions": [[[65, 66], [64, 64, "Place", 1.0]]]}
+{"doc_key": "JC002YBW0-22", "predictions": [[[288, 288], [242, 242, "Recipient", 1.0], [303, 303, "Recipient", 1.0], [289, 290, "PaymentBarter", 1.0]]]}
+{"doc_key": "JC002YBW0-23", "predictions": [[[208, 208], [211, 211, "Victim", 1.0], [0, 1, "Killer", 1.0]]]}
+{"doc_key": "JC002YBW0-24", "predictions": [[[217, 217], [219, 219, "Target", 1.0], [0, 1, "Attacker", 1.0], [221, 221, "Place", 1.0]]]}
+{"doc_key": "scenario_en_kairos_16-0", "predictions": [[[12, 12], [19, 19, "Target", 1.0], [21, 22, "Place", 1.0]]]}
+{"doc_key": "scenario_en_kairos_16-1", "predictions": [[[34, 34], [37, 38, "Target", 1.0]]]}
+{"doc_key": "scenario_en_kairos_16-2", "predictions": [[[59, 59], [62, 64, "Artifact", 1.0]]]}
+{"doc_key": "scenario_en_kairos_16-3", "predictions": [[[67, 67], [70, 70, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-0", "predictions": [[[7, 7], [13, 13, "Place", 1.0], [11, 11, "Target", 1.0], [15, 15, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-1", "predictions": [[[8, 8], [11, 11, "Victim", 1.0], [13, 13, "Place", 1.0], [15, 15, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-2", "predictions": [[[21, 21]]]}
+{"doc_key": "suicide_ied_100-3", "predictions": [[[31, 31], [33, 33, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-4", "predictions": [[[35, 35], [37, 37, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-5", "predictions": [[[48, 48], [51, 51, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-6", "predictions": [[[62, 62], [60, 60, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-7", "predictions": [[[67, 67], [65, 65, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-8", "predictions": [[[70, 70]]]}
+{"doc_key": "suicide_ied_100-9", "predictions": [[[89, 89], [87, 87, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-10", "predictions": [[[83, 83], [74, 74, "Target", 1.0]]]}
+{"doc_key": "suicide_ied_100-11", "predictions": [[[93, 93], [92, 92, "Communicator", 1.0]]]}
+{"doc_key": "suicide_ied_100-12", "predictions": [[[97, 97]]]}
+{"doc_key": "suicide_ied_100-13", "predictions": [[[105, 105]]]}
+{"doc_key": "suicide_ied_100-14", "predictions": [[[124, 124], [13, 13, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-15", "predictions": [[[126, 127], [125, 125, "Vehicle", 1.0], [133, 133, "Destination", 1.0], [136, 136, "Transporter", 1.0], [118, 118, "Destination", 1.0]]]}
+{"doc_key": "suicide_ied_100-16", "predictions": [[[135, 135], [137, 137, "ExplosiveDevice", 1.0], [136, 136, "Attacker", 1.0], [133, 133, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-17", "predictions": [[[127, 127], [125, 125, "Victim", 1.0], [122, 122, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-18", "predictions": [[[132, 132], [131, 131, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-19", "predictions": [[[109, 109], [100, 100, "Target", 1.0]]]}
+{"doc_key": "suicide_ied_100-20", "predictions": [[[88, 88], [83, 83, "Target", 1.0]]]}
+{"doc_key": "suicide_ied_100-21", "predictions": [[[58, 58]]]}
+{"doc_key": "suicide_ied_100-22", "predictions": [[[72, 72], [70, 70, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-23", "predictions": [[[75, 75]]]}
+{"doc_key": "suicide_ied_100-24", "predictions": [[[78, 78], [77, 77, "Victim", 1.0]]]}
+{"doc_key": "suicide_ied_100-25", "predictions": [[[5, 5], [4, 4, "Communicator", 1.0]]]}
+{"doc_key": "suicide_ied_100-26", "predictions": [[[9, 9]]]}
+{"doc_key": "suicide_ied_100-27", "predictions": [[[15, 15]]]}
+{"doc_key": "suicide_ied_100-28", "predictions": [[[107, 107], [108, 108, "Recipient", 1.0], [92, 92, "Communicator", 1.0]]]}
+{"doc_key": "suicide_ied_100-29", "predictions": [[[100, 100], [92, 92, "Communicator", 1.0]]]}
+{"doc_key": "suicide_ied_100-30", "predictions": [[[105, 105], [102, 102, "Place", 1.0]]]}
+{"doc_key": "suicide_ied_100-31", "predictions": [[[64, 65], [67, 68, "Place", 1.0], [63, 63, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "suicide_ied_100-32", "predictions": [[[12, 12], [4, 4, "Communicator", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-0", "predictions": [[[2, 2], [3, 3, "Defendant", 1.0], [1, 1, "Prosecutor", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-1", "predictions": [[[7, 7], [6, 6, "Target", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-2", "predictions": [[[13, 13], [15, 15, "Defendant", 1.0], [34, 34, "JudgeCourt", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-3", "predictions": [[[23, 23], [6, 6, "Target", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-4", "predictions": [[[29, 29], [31, 31, "Victim", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-5", "predictions": [[[37, 37], [97, 97, "Defendant", 1.0], [41, 42, "Defendant", 1.0], [34, 34, "JudgeCourt", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-6", "predictions": [[[49, 49]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-7", "predictions": [[[102, 102], [41, 42, "Detainee", 1.0], [97, 97, "Detainee", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-8", "predictions": [[[130, 130], [129, 129, "Detainee", 1.0], [129, 129, "Detainee", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-9", "predictions": [[[141, 141], [139, 139, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-10", "predictions": [[[143, 143], [162, 162, "Attacker", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-11", "predictions": [[[168, 168], [451, 451, "Target", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-12", "predictions": [[[197, 197], [206, 206, "Victim", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-13", "predictions": [[[202, 202], [201, 201, "Victim", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-14", "predictions": [[[206, 206], [208, 208, "Victim", 1.0], [210, 210, "Victim", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-15", "predictions": [[[213, 213]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-16", "predictions": [[[292, 292]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-17", "predictions": [[[289, 289]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-18", "predictions": [[[283, 283], [447, 447, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-19", "predictions": [[[270, 270], [492, 492, "Defendant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-20", "predictions": [[[277, 277], [492, 492, "PassengerArtifact", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-21", "predictions": [[[215, 215]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-22", "predictions": [[[234, 234], [246, 246, "PassengerArtifact", 1.0], [278, 278, "Origin", 1.0], [242, 242, "Destination", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-23", "predictions": [[[275, 275]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-24", "predictions": [[[253, 253], [252, 252, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-25", "predictions": [[[287, 287], [447, 447, "Target", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-26", "predictions": [[[283, 283], [350, 351, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-27", "predictions": [[[261, 261], [341, 341, "Defendant", 1.0], [116, 116, "Place", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-28", "predictions": [[[250, 250], [252, 252, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-29", "predictions": [[[264, 264], [248, 248, "PassengerArtifact", 1.0], [215, 216, "Destination", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-30", "predictions": [[[271, 271]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-31", "predictions": [[[240, 240], [242, 242, "ExplosiveDevice", 1.0], [235, 235, "Attacker", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-32", "predictions": [[[169, 169], [280, 280, "Detainee", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-33", "predictions": [[[176, 176], [280, 280, "Detainee", 1.0], [224, 224, "Place", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-34", "predictions": [[[71, 71], [94, 94, "Detainee", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-35", "predictions": [[[93, 93], [114, 114, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-36", "predictions": [[[44, 44], [23, 23, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-37", "predictions": [[[77, 77], [76, 76, "Participant", 1.0], [59, 59, "Topic", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-38", "predictions": [[[94, 94]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-39", "predictions": [[[246, 246], [241, 241, "Participant", 1.0]]]}
+{"doc_key": "23_VOA_EN_NW_2015.11.24.3071320-40", "predictions": [[[279, 279], [281, 281, "Participant", 1.0], [492, 492, "Topic", 1.0]]]}
+{"doc_key": "K0C041O37-0", "predictions": [[[7, 7], [3, 3, "Instrument", 1.0], [11, 11, "Target", 1.0]]]}
+{"doc_key": "K0C041O37-1", "predictions": [[[38, 38], [41, 41, "Target", 1.0]]]}
+{"doc_key": "K0C041O37-2", "predictions": [[[56, 56], [63, 64, "Target", 1.0], [67, 67, "Instrument", 1.0], [70, 70, "Instrument", 1.0]]]}
+{"doc_key": "K0C041O37-3", "predictions": [[[198, 198], [506, 506, "Investigator", 1.0]]]}
+{"doc_key": "K0C041O37-4", "predictions": [[[338, 338], [343, 343, "Target", 1.0], [336, 336, "Instrument", 1.0]]]}
+{"doc_key": "K0C041O37-5", "predictions": [[[333, 333], [336, 336, "Artifact", 1.0]]]}
+{"doc_key": "K0C041O37-6", "predictions": [[[359, 359], [363, 363, "CrashObject", 1.0], [441, 441, "Vehicle", 1.0]]]}
+{"doc_key": "K0C041O37-7", "predictions": [[[165, 165], [170, 170, "Instrument", 1.0]]]}
+{"doc_key": "K0C041O37-8", "predictions": [[[288, 288], [438, 438, "Instrument", 1.0]]]}
+{"doc_key": "K0C041O37-9", "predictions": [[[400, 400], [412, 412, "Vehicle", 1.0]]]}
+{"doc_key": "K0C041O37-10", "predictions": [[[42, 42], [41, 41, "Instrument", 1.0]]]}
+{"doc_key": "K0C041O37-11", "predictions": [[[32, 32], [31, 31, "Vehicle", 1.0]]]}
+{"doc_key": "K0C041O37-12", "predictions": [[[78, 78], [63, 64, "Communicator", 1.0]]]}
+{"doc_key": "K0C041O37-13", "predictions": [[[313, 313], [307, 307, "Participant", 1.0]]]}
+{"doc_key": "K0C041O37-14", "predictions": [[[337, 337], [23, 23, "Participant", 1.0]]]}
+{"doc_key": "K0C041O37-15", "predictions": [[[57, 57], [61, 61, "Communicator", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-0", "predictions": [[[3, 3], [5, 5, "Place", 1.0], [10, 10, "Target", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-1", "predictions": [[[8, 8], [10, 10, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-2", "predictions": [[[102, 102], [170, 170, "ExplosiveDevice", 1.0], [154, 154, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-3", "predictions": [[[117, 117], [115, 115, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-4", "predictions": [[[200, 200], [204, 204, "Victim", 1.0], [208, 208, "Victim", 1.0], [213, 213, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-5", "predictions": [[[239, 239], [236, 236, "Target", 1.0], [234, 234, "Target", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-6", "predictions": [[[280, 280], [284, 284, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-7", "predictions": [[[290, 290], [323, 323, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-8", "predictions": [[[290, 290], [296, 297, "Place", 1.0], [389, 389, "ExplosiveDevice", 1.0], [296, 296, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-9", "predictions": [[[282, 282], [279, 279, "Attacker", 1.0], [289, 289, "Place", 1.0], [286, 286, "Target", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-10", "predictions": [[[293, 293], [298, 298, "Victim", 1.0], [279, 279, "Killer", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-11", "predictions": [[[303, 303], [302, 302, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-12", "predictions": [[[298, 298], [301, 301, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-13", "predictions": [[[262, 262], [261, 261, "ExplosiveDevice", 1.0], [278, 279, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-14", "predictions": [[[263, 263], [259, 259, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-15", "predictions": [[[284, 284], [283, 283, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-16", "predictions": [[[275, 275], [233, 233, "ExplosiveDevice", 1.0], [279, 279, "Place", 1.0], [184, 184, "Target", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_7_news_2-17", "predictions": [[[315, 315], [354, 354, "Place", 1.0], [322, 322, "Target", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-0", "predictions": [[[5, 5], [14, 14, "Recipient", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-1", "predictions": [[[1, 1], [0, 0, "Impeder", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-2", "predictions": [[[52, 52], [54, 54, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-3", "predictions": [[[65, 65], [63, 64, "Communicator", 1.0], [114, 114, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-4", "predictions": [[[149, 149], [151, 151, "Victim", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-5", "predictions": [[[141, 141], [145, 145, "Target", 1.0], [147, 147, "Place", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-6", "predictions": [[[170, 170], [169, 169, "Communicator", 1.0], [171, 171, "Recipient", 1.0], [165, 165, "Communicator", 1.0], [176, 176, "Recipient", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-7", "predictions": [[[173, 173], [176, 176, "Detainee", 1.0], [171, 171, "Jailer", 1.0]]]}
+{"doc_key": "wiki_mass_car_bombings_0_news_9-8", "predictions": [[[277, 277], [263, 263, "Demonstrator", 1.0], [422, 422, "Demonstrator", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-0", "predictions": [[[49, 49], [48, 48, "Target", 1.0], [47, 47, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-1", "predictions": [[[110, 110], [113, 114, "Target", 1.0], [117, 117, "Target", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-2", "predictions": [[[271, 271], [270, 270, "Target", 1.0], [374, 374, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-3", "predictions": [[[271, 271], [270, 270, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-4", "predictions": [[[275, 275], [274, 274, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-5", "predictions": [[[279, 279], [278, 278, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-6", "predictions": [[[277, 277], [380, 380, "Detainee", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-7", "predictions": [[[321, 321], [7, 7, "Target", 1.0], [319, 319, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-8", "predictions": [[[341, 341], [350, 350, "Target", 1.0], [333, 336, "Target", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-9", "predictions": [[[321, 321], [318, 318, "Victim", 1.0], [327, 327, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-10", "predictions": [[[322, 322], [320, 320, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-11", "predictions": [[[328, 328], [327, 327, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-12", "predictions": [[[319, 319], [365, 365, "Target", 1.0], [121, 121, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-13", "predictions": [[[366, 366], [365, 365, "Target", 1.0], [364, 364, "Place", 1.0], [121, 121, "Place", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-14", "predictions": [[[127, 127], [131, 132, "Victim", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-15", "predictions": [[[164, 164], [94, 94, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-16", "predictions": [[[283, 283], [286, 286, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-17", "predictions": [[[290, 290], [289, 289, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-18", "predictions": [[[327, 327], [364, 364, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-19", "predictions": [[[307, 307], [285, 285, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-20", "predictions": [[[280, 280], [519, 519, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-21", "predictions": [[[304, 305], [303, 303, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-22", "predictions": [[[321, 321], [312, 312, "Attacker", 1.0], [331, 333, "Target", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-23", "predictions": [[[339, 339], [90, 90, "Target", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-24", "predictions": [[[255, 255], [250, 251, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-25", "predictions": [[[302, 302], [304, 305, "Target", 1.0], [301, 301, "ExplosiveDevice", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-26", "predictions": [[[298, 298], [297, 297, "Participant", 1.0]]]}
+{"doc_key": "wiki_ied_bombings_5_news_3-27", "predictions": [[[97, 97], [114, 114, "Participant", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-0", "predictions": [[[14, 14], [12, 12, "Jailer", 1.0], [17, 17, "Detainee", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-1", "predictions": [[[78, 78], [151, 151, "IdentifiedObject", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-2", "predictions": [[[17, 17]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-3", "predictions": [[[218, 218]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-4", "predictions": [[[145, 145], [17, 17, "Detainee", 1.0], [255, 255, "Detainee", 1.0]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-5", "predictions": [[[153, 154]]]}
+{"doc_key": "wiki_drone_strikes_1_news_1-6", "predictions": [[[90, 90], [92, 94, "Instrument", 1.0], [89, 89, "Attacker", 1.0]]]}
+{"doc_key": "scenario_en_kairos_2-0", "predictions": [[[3, 3], [9, 9, "Victim", 1.0], [0, 2, "Perpetrator", 1.0]]]}
+{"doc_key": "scenario_en_kairos_2-1", "predictions": [[[17, 17], [9, 9, "Victim", 1.0]]]}
+{"doc_key": "scenario_en_kairos_2-2", "predictions": [[[28, 28], [32, 32, "Target", 1.0]]]}
+{"doc_key": "scenario_en_kairos_2-3", "predictions": [[[35, 35]]]}
+{"doc_key": "scenario_en_kairos_2-4", "predictions": [[[39, 39], [9, 9, "Victim", 1.0]]]}
+{"doc_key": "scenario_en_kairos_2-5", "predictions": [[[47, 47]]]}
+{"doc_key": "scenario_en_kairos_2-6", "predictions": [[[50, 50], [51, 51, "Artifact", 1.0], [53, 53, "Artifact", 1.0], [68, 69, "Artifact", 1.0]]]}
+{"doc_key": "scenario_en_kairos_2-7", "predictions": [[[61, 61], [65, 65, "Artifact", 1.0]]]}

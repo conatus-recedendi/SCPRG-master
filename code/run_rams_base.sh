@@ -1,4 +1,5 @@
 #!/bin/bash
+export CUDA_VISIBLE_DEVICES=3
 
 if true; then
 OUTPUT=rams-base
@@ -27,6 +28,7 @@ do
 python -u train_EAE.py \
 --task_name rams \
 --do_train \
+--no_cuda False \
 --train_file ${TRAIN_FILE} \
 --validation_file ${DEV_FILE} \
 --test_file ${TEST_FILE} \
@@ -45,6 +47,7 @@ python -u train_EAE.py \
 --metric_for_best_model f1 \
 --greater_is_better True \
 --evaluation_strategy epoch \
+--save_strategy epoch \
 --eval_accumulation_steps 100 \
 --logging_strategy epoch \
 --warmup_ratio ${WARMUP_RATIO} \

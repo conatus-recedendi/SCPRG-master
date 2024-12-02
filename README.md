@@ -19,11 +19,11 @@ You can refer to our [paper](https://aclanthology.org/2023.findings-acl.817) for
 
 ### 1. Dependencies
 
-- pytorch==1.9.0
+- pytorch==1.9.0 # 1.10
 - transformers==4.8.1
-- datasets==1.8.0
+- datasets==1.8.0 # 1.12.1
 - tqdm==4.49.0
-- spacy==3.2.4
+- spacy==3.2.4 # 3.2.1
 - opt_einsum
 - wandb
 

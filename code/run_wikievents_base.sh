@@ -1,9 +1,9 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=6
+export CUDA_VISIBLE_DEVICES=3
 
 if true; then
 OUTPUT=wikievents-base
-GPU=0
+GPU=3
 BSZ=4
 ACCU=2
 LR=3e-5
@@ -15,20 +15,23 @@ SPAN_LEN=8
 WEIGHT_DECAY=0.1
 WARMUP_RATIO=0.1
 EVENT_EMBEDDING_SIZE=200
-seeds=(999)
+seeds=(1001)
 EPOCH=50
 MAX_LEN=1024
 TRAIN_FILE=../data/wikievents/transfer-train.jsonl
 DEV_FILE=../data/wikievents/transfer-dev.jsonl
 TEST_FILE=../data/wikievents/transfer-test.jsonl
 META_FILE=../data/wikievents/meta.json
+CACHE_DIR=./cache/wikievents-base
 
 # main
 for SEED in ${seeds[@]}
 do
 python train_EAE.py \
 --task_name wikievent \
---do_train \
+--do_train True \
+--do_eval True \
+--no_cuda False \
 --train_file '../data/wikievents/transfer-train.jsonl' \
 --validation_file '../data/wikievents/transfer-dev.jsonl' \
 --test_file '../data/wikievents/transfer-test.jsonl' \
@@ -42,7 +45,6 @@ python train_EAE.py \
 --num_train_epochs 100 \
 --weight_decay 0.1 \
 --remove_unused_columns False \
---save_total_limit 1 \
 --load_best_model_at_end \
 --metric_for_best_model f1 \
 --greater_is_better True \
@@ -56,6 +58,9 @@ python train_EAE.py \
 --max_len 1024 \
 --seed ${SEED} \
 --lambda_boundary 0.1 \
---event_embedding_size 200
+--event_embedding_size 200 \
+--span_len_embedding_range 768
+--span_len_embedding_hidden_size 768
+--cache_dir ${CACHE_DIR}
 done
 fi
